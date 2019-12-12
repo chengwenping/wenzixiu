@@ -19,13 +19,13 @@ package main
 
 //leetcode submit region begin(Prohibit modification and deletion)
 func isPalindrome(s string) bool {
-	filtedS := filterNumberAndChar(s)
+	//filtedS := filterNumberAndChar(s)
 	return true
 }
 
 //leetcode submit region end(Prohibit modification and deletion)
 
 func filterNumberAndChar(s string) string {
-	strings.re
-	return nil
+	//strings.re
+	return ""
 }
